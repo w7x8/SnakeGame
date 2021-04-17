@@ -8,3 +8,4 @@ How to play:
 - Don't hit your tail or the borders.
 
 ## Screenshot:
+<a href="https://ibb.co/JmNSNY7"><img src="https://i.ibb.co/8NJQJy5/2021-04-17-06-09.png" alt="2021-04-17-06-09" border="0"></a>
